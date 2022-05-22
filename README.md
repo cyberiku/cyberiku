@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @cyberiku
-- 👀 I’m interested in Cyber security, Networking , Python Programing
+- 👋 Hi, I’m Romelio!
+- 👀 I’m interested in learning more about Cyber security, Networking , Python Programing
 - 🌱 I’m currently learning Cyber security, Fortinet, Python
 - 💞️ I’m looking to collaborate on Cyber Security
 - 📫 How to reach me rchirino1950@yahoo.com
